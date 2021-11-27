@@ -4,7 +4,7 @@ I'm Mike. You can mostly find me on [Twitter](https://twitter.com/ivarsmas), [Li
 
 I love make projects, product design, mkt and strategy, writte on [Medium](https://en.ivarsmas.com) [(Spanish)](https://es.ivarsmas.com). And I have [my own website](https://www.ivarsmas.com).
 
-- 🔭 I’m currently working on [Adtuo.com](https://adtuo.com) to change advertising.
+- 🔭 I’m currently working on [Adtuo.com](https://adtuo.com) to change [advertising](https://community.adtuo.com/@IvarsMas). 
 - 🌱 I’m always learning new things in business, [code](https://github.com/ivarsmas?tab=repositories) or marketing..
 - 📖 I read a lot about startups, investment, products or innovation and future.
 - 👯 I’m open to collaborate on interesting things.
