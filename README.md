@@ -8,7 +8,7 @@ Now I have started my futuristic newsletter [ANTICIPATE](https://anticipate.subs
 
 I also write on [my English blog](https://en.ivarsmas.com) and [my Spanish blog](https://es.ivarsmas.com). 
 
-- 🔭 I’m currently [advising startups](https://me.volley.app/ivarsmas).
+- 🔭 I’m currently advising startups.
 - 👨‍💻 Previously I was the CEO & Founder at [Adtuo.com](https://adtuo.com) where we try to change the advertising. 
 - 📖 I read a lot about startups, investment, digital products, tecnology, sciencie or innovation and future.
 - 🌱 I’m always learning new things in business, [code](https://github.com/ivarsmas?tab=repositories) or marketing..
