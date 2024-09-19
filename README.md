@@ -4,12 +4,12 @@ I'm Mike. You can mostly find me on 🐦[Twitter](https://twitter.com/ivarsmas),
 
 I love create online busines and projects, in fields like product design, data, growth mkt and strategy.
 
-Now I have started my futuristic newsletter [ANTICIPATE](https://anticipate.substack.com) and [ANTICIPATE podcast](https://anticipate.substack.com/podcast) both in Spanish.
+I had a futuristic newsletter [ANTICIPATE](https://anticipate.substack.com) and [ANTICIPATE podcast](https://anticipate.substack.com/podcast) both in Spanish.
 
 I also write on [my English blog](https://en.ivarsmas.com) and [my Spanish blog](https://es.ivarsmas.com). 
 
-- 🔭 I’m currently advising startups.
-- 👨‍💻 Previously I was the CEO & Founder at [Adtuo.com](https://adtuo.com) where we try to change the advertising. 
+- 🔭 I’m currently building SaaS from [Areal](https://www.arealstudio.com) like [RealMail](https://www.realmail.dev) and advising startups.
+- 👨‍💻 Previously I was the CEO & Founder at [Adtuo.com](https://adtuo.com) where we try to change the advertising with AI. 
 - 📖 I read a lot about startups, investment, digital products, tecnology, sciencie or innovation and future.
 - 🌱 I’m always learning new things in business, [code](https://github.com/ivarsmas?tab=repositories) or marketing..
 - 👯 I’m open to collaborate on interesting things.
